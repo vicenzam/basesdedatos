@@ -1,0 +1,19 @@
+Sexo, Edad, Respuesta, Cantidad
+Femenino,C18-23,Sin importancia,26
+Femenino,C24-40,Sin importancia,9
+Femenino,C>40,Sin importancia,5
+Femenino,C18-23,Importante,12
+Femenino,C24-40,Importante,21
+Femenino,C>40,Importante,14
+Femenino,C18-23,Muy importante,7
+Femenino,C24-40,Muy importante,15
+Femenino,C>40,Muy importante,41
+Masculino,C18-23,Sin importancia,40
+Masculino,C24-40,Sin importancia,17
+Masculino,C>40,Sin importancia,8
+Masculino,C18-23,Importante,17
+Masculino,C24-40,Importante,15
+Masculino,C>40,Importante,15
+Masculino,C18-23,Muy importante,8
+Masculino,C24-40,Muy importante,12
+Masculino,C>40,Muy importante,18
